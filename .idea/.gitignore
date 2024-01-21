@@ -7,5 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 
-../terraform.tfstate*
+../terraform.tfstate*&
 ../.terraform
+../terraform-testing.iml
